@@ -46,9 +46,5 @@ public class CunsumerDemo {
 
     // poll for new data
 
-
-
-
-
   }
 }
